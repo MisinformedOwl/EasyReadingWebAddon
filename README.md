@@ -13,3 +13,5 @@ Should you want the focus area to be larger simply press either
 [ or ]
 ```
 Depending on if you wish to decrease, or increase respectively.
+
+If you wish to removethe bars, you only need to click.

@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "EasyReader",
+    "version": "1.0",
+
+    "description": "A tool to make reading easier by focusing on the line you're reading.",
+    
+    "content_scripts": [{
+            "matches": ["<all_urls>"],
+            "js": ["readingScript.js"]
+        }
+    ]
+}
